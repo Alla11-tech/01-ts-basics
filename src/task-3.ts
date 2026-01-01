@@ -1,4 +1,4 @@
-//  Масив рядків
+// Масив рядків
 const usernames: string[] = ["alice", "bob", "charlie"];
 
 // Масив чисел
